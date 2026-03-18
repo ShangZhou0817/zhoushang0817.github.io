@@ -7,41 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shang Zhou, and I am a Ph.D. student in Computer Science at the University of California, San Diego (UCSD), fortunate to be advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). My research is centered on enhancing the capabilities of Large Language Models (LLMs), with a focus on their evaluation, efficiency, and controllability.
+I am a Ph.D. student in Computer Science at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). My research is about pushing LLMs to solve hard problems in code, such as competitive programming and open-ended optimization. I work on benchmarking, agents, and using LLMs to generate problems and data for training better models. I am also an **ICPC World Finals 22nd Place finisher** and a **Codeforces International Grandmaster**. This summer, I will be joining **Jump Trading** as a Quantitative Researcher Intern.
 
-Beyond my academic pursuits, I have a deep background in competitive programming. I am an **ICPC World Finalist** (22nd Place, 2023) and a **Codeforces International Grandmaster**. This experience provides me with a unique perspective on algorithmic problem-solving and informs my work on pushing the boundaries of AI in complex reasoning tasks.
+## Publications
 
-## Research Interests
+**[FrontierCS: Evolving Challenges for Evolving Intelligence](https://arxiv.org/abs/2512.15699)**<br>
+Qiuyang Mang\*, Wenhao Chai\*, Zhifei Li\*, Huanzhi Mao\*, **Shang Zhou**\*, et al.<br>
+*Under review at ICML 2026*
 
-I am passionate about building more capable and reliable AI systems. My primary interests include:
+**[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)**<br>
+Mike A Merrill\*, Alexander Glenn Shaw\*, Nicholas Carlini, et al. (incl. **Shang Zhou**)<br>
+*ICLR 2026*
 
-* **LLM Evaluation and Benchmarking:** Developing robust frameworks to accurately assess the capabilities and limitations of LLMs on complex tasks, such as competitive programming and advanced reasoning.
-* **Efficient LLM Inference:** Designing novel algorithms and strategies to reduce the computational cost of LLM inference while maintaining or even improving accuracy.
-* **Controllable Text Generation:** Creating methods to precisely and smoothly control the attributes (e.g., style, formality, sentiment) of generated text.
-* **AI for Complex Problem Solving:** Exploring the intersection of AI and competitive programming to enhance the reasoning and observational skills of intelligent agents.
+**[AutoCode: LLMs as Problem Setters for Competitive Programming](https://arxiv.org/abs/2510.12803)**<br>
+**Shang Zhou**\*, Zihan Zheng\*, Kaiyuan Liu\*, Zeyu Shen\*, Zerui Cheng\*, et al.<br>
+*ICLR 2026*
 
-## News
-* **June 2025:** Our work on *LiveCodeBench Pro* was featured in [MIT Technology Review](https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/).
-* **May 2025:** Our paper, "Scaling LLM Inference with Optimized Sample Compute Allocation," was accepted to **NAACL 2025**.
-* **July 2024:** Honored to serve as the President & ICPC Team Coach for the [UCSD Competitive Programming Club](https://www.facebook.com/groups/ucsd.icpc/).
-* **April 2024:** Our team won the **Champion** title in the ICPC NSA Challenge.
+**[LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?](https://arxiv.org/abs/2506.11928)**<br>
+Zihan Zheng\*, Zerui Cheng\*, Zeyu Shen\*, **Shang Zhou**\*, Kaiyuan Liu\*, Hansen He\*, et al.<br>
+*NeurIPS 2025* · [MIT Technology Review](https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/)
 
-## Seeking Collaboration
+**[Scaling LLM Inference with Optimized Sample Compute Allocation](https://arxiv.org/abs/2410.22480)**<br>
+Kexun Zhang\*, **Shang Zhou**\*, Danqing Wang, William Yang Wang, Lei Li<br>
+*NAACL 2025*
 
-I am actively seeking motivated and passionate students (undergraduate or master's) to collaborate on research projects. If you are excited about AI and eager to publish at top-tier conferences, I would love to hear from you.
-
-**How to Reach Out:**
-Please send me an email at **shz060@ucsd.edu** with the subject line `[Collaboration Interest]`.
-
-**Please include in your email:**
-* Your CV (optional but recommended).
-* A brief description of your research interests or specific problems you find exciting.
-* A summary of your programming skills and any relevant project experience.
-
-**What I Offer:**
-* Guidance on cutting-edge research ideas.
-* Mentorship in code implementation and experimental design.
-* Access to necessary computational resources (compute power).
-* Dedicated support throughout the paper writing and publication process.
-
-Our goal is to produce high-impact work for publication at premier venues like **NeurIPS, ICML, ICLR, ACL, NAACL, and EMNLP**. I am committed to helping my collaborators achieve their academic and professional goals, including securing first-author publications for Ph.D. applications or gaining invaluable research experience.
+**[Evaluating the Smooth Control of Attribute Intensity in Text Generation with LLMs](https://arxiv.org/abs/2406.04460)**<br>
+**Shang Zhou**\*, Feng Yao\*, Chengyu Dong, Zihan Wang, Jingbo Shang<br>
+*Findings of ACL 2024*
