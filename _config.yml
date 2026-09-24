@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Shang Zhou"
 title_separator          : " &#124; "
 name                     : "Shang Zhou"
-description              : &description "personal description"
+description              : &description "CS Ph.D. student at UC San Diego researching LLMs for competitive programming and open-ended coding: benchmarks, agents, and automatic problem generation."
 url                      : https://shangzhou.me # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShangZhou0817/zhoushang0817.github.io"
@@ -29,7 +29,7 @@ author:
   location         : "San Diego, CA"
   employer         : "University of California, San Diego"
   uri              : # URL
-  email            : "shz060@ucsd.edu" 
+  email            : "shangzhou0817@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -139,7 +139,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_description           : *description # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
