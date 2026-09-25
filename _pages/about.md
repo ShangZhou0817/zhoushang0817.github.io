@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). My research is about pushing LLMs to solve hard problems in code, such as competitive programming and open-ended optimization. I work on benchmarking, agents, and using LLMs to generate problems and data for training better models. I am also an **ICPC World Finals 22nd Place finisher** and a **Codeforces International Grandmaster**. This summer, I will be joining **Jump Trading** as a Quantitative Researcher Intern.
+I am a Ph.D. student in Computer Science at UC San Diego, advised by Professor [Jingbo Shang](https://shangjingbo1226.github.io/). My research is about pushing LLMs to solve hard problems in code, such as competitive programming and open-ended optimization. I work on benchmarking, agents, and using LLMs to generate problems and data for training better models. I am also an **ICPC World Finals 22nd Place finisher** and a **Codeforces International Grandmaster**. I spent summer 2026 as a Quantitative Research Intern at **Jump Trading**, and will join **Citadel Securities** as a Quantitative Research Intern in summer 2027.
 
 ## Publications
 
