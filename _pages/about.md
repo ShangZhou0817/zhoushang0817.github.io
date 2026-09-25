@@ -11,9 +11,21 @@ I am a Ph.D. student in Computer Science at UC San Diego, advised by Professor [
 
 ## Publications
 
+**AutoCode-RL: Reinforcement Learning for Code with Verifiable Synthetic Data**<br>
+Kaiyuan Liu, Zhiming Wang, Zeyu Shen, Yulun Wu, Yeyuan Chen, **Shang Zhou**, et al.<br>
+*Under review at ICLR 2027*
+
+**[OpenDeepThink: Parallel Reasoning via Bradley-Terry Aggregation](https://arxiv.org/abs/2605.15177)**<br>
+**Shang Zhou**, Wenhao Chai, Kaiyuan Liu, Huanzhi Mao, Qiuyang Mang, Jingbo Shang<br>
+*Under review at ICLR 2027*
+
+**[FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale](https://arxiv.org/abs/2605.14445)**<br>
+Runyuan He\*, Qiuyang Mang\*, **Shang Zhou**, Kaiyuan Liu, Hanchen Li, et al.<br>
+*NeurIPS 2026 (Spotlight)*
+
 **[FrontierCS: Evolving Challenges for Evolving Intelligence](https://arxiv.org/abs/2512.15699)**<br>
 Qiuyang Mang\*, Wenhao Chai\*, Zhifei Li\*, Huanzhi Mao\*, **Shang Zhou**\*, et al.<br>
-*Under review at ICML 2026*
+*ICML 2026*
 
 **[Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868)**<br>
 Mike A Merrill\*, Alexander Glenn Shaw\*, Nicholas Carlini, et al. (incl. **Shang Zhou**)<br>
@@ -27,7 +39,7 @@ Mike A Merrill\*, Alexander Glenn Shaw\*, Nicholas Carlini, et al. (incl. **Shan
 Zihan Zheng\*, Zerui Cheng\*, Zeyu Shen\*, **Shang Zhou**\*, Kaiyuan Liu\*, Hansen He\*, et al.<br>
 *NeurIPS 2025* · [MIT Technology Review](https://www.technologyreview.com/2025/06/24/1119187/fix-ai-evaluation-crisis/)
 
-**[Scaling LLM Inference with Optimized Sample Compute Allocation](https://arxiv.org/abs/2410.22480)**<br>
+**[Scaling LLM Inference Efficiently with Optimized Sample Compute Allocation](https://arxiv.org/abs/2410.22480)**<br>
 Kexun Zhang\*, **Shang Zhou**\*, Danqing Wang, William Yang Wang, Lei Li<br>
 *NAACL 2025*
 
